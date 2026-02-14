@@ -1,0 +1,1 @@
+asks the user to enter a number and calculates the sum of all its digits
