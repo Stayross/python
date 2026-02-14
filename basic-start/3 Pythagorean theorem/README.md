@@ -1,0 +1,1 @@
+Python program that applies the Pythagorean theorem by taking the two perpendicular sides and displays the hypotenuse
